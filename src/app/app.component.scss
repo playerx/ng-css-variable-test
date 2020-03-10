@@ -1,0 +1,6 @@
+$grid-border: 1px dotted var(--color-background-hover) !important;
+
+.test {
+  border-left: $grid-border;
+  border-right: $grid-border;
+}
